@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abstraction, Interface Homework/1.0.0": {
+        "runtime": {
+          "Abstraction, Interface Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstraction, Interface Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

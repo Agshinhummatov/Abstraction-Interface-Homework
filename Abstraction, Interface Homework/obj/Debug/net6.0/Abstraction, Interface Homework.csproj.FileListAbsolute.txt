@@ -1,0 +1,15 @@
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\bin\Debug\net6.0\Abstraction, Interface Homework.exe
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\bin\Debug\net6.0\Abstraction, Interface Homework.deps.json
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\bin\Debug\net6.0\Abstraction, Interface Homework.runtimeconfig.json
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\bin\Debug\net6.0\Abstraction, Interface Homework.dll
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\bin\Debug\net6.0\Abstraction, Interface Homework.pdb
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.dll
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\refint\Abstraction, Interface Homework.dll
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.pdb
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\Abstraction, Interface Homework.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\Abstraction, Interface\Abstraction, Interface Homework\Abstraction, Interface Homework\obj\Debug\net6.0\ref\Abstraction, Interface Homework.dll
